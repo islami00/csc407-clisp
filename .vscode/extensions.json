@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "qingpeng.common-lisp",
+    "imjacobclark.vscode-lisp-formatter"
+  ]
+}
